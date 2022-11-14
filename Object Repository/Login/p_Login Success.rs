@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Login Success</name>
+   <tag></tag>
+   <elementGuidId>06c5fc6e-94d6-4987-9199-3bf4db8994f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftPanel']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.smallText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b3b8ece5-02a2-4bf5-aff4-c88eb6e49ada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>smallText</value>
+      <webElementGuid>45246852-fe29-455e-98b4-ea5fbbcaa18d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome aaa aaa</value>
+      <webElementGuid>89909ca8-3fab-439e-901c-fcfe6d6b1046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftPanel&quot;)/p[@class=&quot;smallText&quot;]</value>
+      <webElementGuid>1ad7a8f3-b487-4fde-a894-bbe9a2c19ffd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftPanel']/p</value>
+      <webElementGuid>2857a0a2-dfac-43b4-bbe4-3810dcbc9429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contact'])[1]/following::p[1]</value>
+      <webElementGuid>f3d1b813-05e1-4dcc-9429-8b7749aa4374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='about'])[1]/following::p[1]</value>
+      <webElementGuid>3f49c1d3-4ce7-4d77-a94f-7a0ee0ae2539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Services'])[1]/preceding::p[1]</value>
+      <webElementGuid>136916d2-a335-450b-b3fc-4f1d4f372441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='aaa aaa']/parent::*</value>
+      <webElementGuid>1ca43e64-1212-4a73-ae5b-01b2f1dcbc24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>c9178d25-8836-48f9-87ad-0b6ee969e178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Welcome aaa aaa' or . = 'Welcome aaa aaa')]</value>
+      <webElementGuid>0a0e1418-2f75-4373-8af3-20af4f234ba8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
